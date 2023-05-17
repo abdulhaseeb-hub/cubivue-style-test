@@ -1,6 +1,6 @@
 {
   "name": "package-cubivue-core",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "test",
   "main": "index.css",
   "scripts": {
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/abdulhaseeb-hub/cubivue-style-test/issues"
   },
-  "homepage": "https://github.com/abdulhaseeb-hub/cubivue-style-test#readme"
+  "homepage": "https://github.com/abdulhaseeb-hub/cubivue-style-test#readme",
+  "devDependencies": {
+    "@popperjs/core": "^2.11.7",
+    "bootstrap": "^5.2.3"
+  }
 }
