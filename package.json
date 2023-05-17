@@ -1,0 +1,22 @@
+{
+  "name": "package-tayyab",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.css",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhaseeb-hub/cubivue-style-test.git"
+  },
+  "keywords": [
+    "cubivue"
+  ],
+  "author": "abdul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulhaseeb-hub/cubivue-style-test/issues"
+  },
+  "homepage": "https://github.com/abdulhaseeb-hub/cubivue-style-test#readme"
+}
