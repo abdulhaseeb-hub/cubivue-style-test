@@ -7568,7 +7568,7 @@ fieldset:disabled .btn {
 
 .btn-text-primary {
   background-color: transparent;
-  color: #3d70b2;
+  color: var(--primary);
   border-color: transparent;
 }
 
@@ -65277,7 +65277,7 @@ ktd-grid-item {
 }
 
 :root {
-  --primary: #3d70b2;
+  --primary: #A04000;
   --secondary: #eff1f3;
   --secondary-dark: #dbdbdb;
   --background-base: #f5f7fa;
